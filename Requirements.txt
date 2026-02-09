@@ -2,7 +2,6 @@ streamlit
 numpy
 pandas
 
-# Computer Vision
 opencv-python-headless
 
 # Deep Learning
@@ -21,3 +20,4 @@ reportlab
 
 # Utilities
 gdown
+
