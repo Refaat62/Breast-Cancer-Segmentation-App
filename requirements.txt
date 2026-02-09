@@ -1,12 +1,12 @@
 streamlit
-numpy
+numpy<2.0.0
 pandas
 
 opencv-python-headless
 
 # Deep Learning
-tensorflow
-keras
+tensorflow==2.15.0
+keras==2.15.0
 
 # Visualization
 matplotlib
@@ -20,4 +20,6 @@ reportlab
 
 # Utilities
 gdown
+
+
 
