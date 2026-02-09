@@ -5,8 +5,8 @@ pandas
 opencv-python-headless
 
 # Deep Learning
-tensorflow==2.15.0
-keras==2.15.0
+tensorflow
+keras
 
 # Visualization
 matplotlib
@@ -20,6 +20,7 @@ reportlab
 
 # Utilities
 gdown
+
 
 
 
